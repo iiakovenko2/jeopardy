@@ -1,5 +1,5 @@
 const categories = [
-    { name: "Math", questions: [
+    { name: "არითმეტიკა", questions: [
         { question: "What is \\(2 + 2\\)?", answer: "4", value: 100 },
         { question: "What is \\(3 \\times 3\\)?", answer: "9", value: 200 },
         { question: "What is \\(\\sqrt{25}\\)?", answer: "5", value: 300 },
